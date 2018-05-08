@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayViews", "ArrayViews\ArrayViews.csproj", "{4871A0A4-1910-4209-AFD6-29AF7C8B269C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayViews", "ArrayViews\ArrayViews.csproj", "{4871A0A4-1910-4209-AFD6-29AF7C8B269C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayViews.Test", "ArrayViews.Test\ArrayViews.Test.csproj", "{3F63F08C-F421-4089-9A1C-2F9749D9E876}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4871A0A4-1910-4209-AFD6-29AF7C8B269C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4871A0A4-1910-4209-AFD6-29AF7C8B269C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4871A0A4-1910-4209-AFD6-29AF7C8B269C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F63F08C-F421-4089-9A1C-2F9749D9E876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F63F08C-F421-4089-9A1C-2F9749D9E876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F63F08C-F421-4089-9A1C-2F9749D9E876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F63F08C-F421-4089-9A1C-2F9749D9E876}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
