@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Int16ArrayTests.cs" />
+    <Compile Include="Int32ArrayTests.cs" />
     <Compile Include="Uint32ArrayTests.cs" />
     <Compile Include="Uint8ArrayTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
